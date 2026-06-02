@@ -3,7 +3,7 @@
 Prepared by: Logan Sparlin  
 Prepared for: Moe Amaya at Operate
 
-Please find samples of projects I developed, their motion + interactions, and a few accompanying code samples in both `React` and `Vue`
+Samples of projects I developed, their motion + interactions, and a few accompanying code samples in both `React` and `Vue`
 
 ---
 
