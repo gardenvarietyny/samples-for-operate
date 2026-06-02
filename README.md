@@ -25,7 +25,7 @@ Samples of projects I developed, their motion + interactions, and a few accompan
 
 ## Code Samples
 
-- [AgentSmyth](/code-samples/agentsmyth/) interactive dithered hero background
+- [AgentSmyth](/code-samples/agentsmyth/interactive-hero.tsx) interactive dithered hero background
 - [Esther](/code-samples/esther/split-text-scroll.vue) scrolling text splitting near bottom of homepage
 - [Mouthwash Magazine](code-samples/mouthwash-magazine/hero.tsx) home hero interaction
 
